@@ -13,8 +13,8 @@
 
     const colorImages = ['s1.png', 's2.png', 's3.png'];
     const grayImages = ['s1a.png', 's2a.png', 's3a.png'];
-    const namesImages = ['Anna Baugart', 'Marek Feliksiak', 'Arek Pawłowicz'];
-    const professionsImages = ['Programistka JS', "Designer", 'Front End Developer'];
+    const namesImages = ['Kate Smith', 'Mark Kowalsky', 'Dave Wesley'];
+    const professionsImages = ['Developer JS', "Designer", 'Front End Developer'];
     
     function changeElement() {
         activeElement++;
