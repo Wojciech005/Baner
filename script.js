@@ -11,8 +11,8 @@
     const h1Html = document.querySelector('.member h1');
     const h2Html = document.querySelector('.member h2');
 
-    const colorImages = ['img/s1.png', 'img/s2.png', 'img/s3.png'];
-    const grayImages = ['img/s1a.png', 'img/s2a.png', 'img/s3a.png'];
+    const colorImages = ['s1.png', 's2.png', 's3.png'];
+    const grayImages = ['s1a.png', 's2a.png', 's3a.png'];
     const namesImages = ['Anna Baugart', 'Marek Feliksiak', 'Arek Pawłowicz'];
     const professionsImages = ['Programistka JS', "Designer", 'Front End Developer'];
     
